@@ -11,7 +11,7 @@ These programs were last tested on **December 18, 2023**. If you encounter issue
 
 ## Important Notes for Users
 - Most notebooks can be **directly opened in Google Colab** by downloading the files and opening them in Google Drive.
-- **Notebook 2** can **only be run locally** because it depends on packages that require **Python 3.8, 3.9, or 3.10**, while Google Colab currently supports **Python 3.11+**.
+- **Notebook 2** can **only be run locally** because it depends on packages that require **Python 3.8, 3.9, or 3.10**, while Google Colab currently supports **Python 3.11+**. All the other codes can be succesfully deploy on Google Colab and work for **Python 3.11**.
 - **Notebook 1, Notebook 5, and Notebook 6** require **API keys** from **IBM Quantum (IBMid)** and **D-Wave Leap** to function properly.
 
 ---
